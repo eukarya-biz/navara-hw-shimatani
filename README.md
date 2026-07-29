@@ -52,6 +52,12 @@ A 3D map experience themed around Japan's landscapes that appear only when the c
 主に使ったNavara API / Key Navara APIs used:
 `view.atmosphere.date`（太陽・星の位置）, `StarsDesc`（実データの星空）, `CloudsEffectDesc`（雲海）, `PolygonMaterial`（石垣・水面 `water` + SSR）, `sampleTerrainHeight`（地形高さの実測）, `flyTo` / `setCamera`（カメラ）。
 
+### ビルドについて / Build note
+
+**JA:** 本リポジトリには表示用のビルド済みファイル（`index.html`・`assets/`）とソース（`src/`）を含みます。ビルドには Navara のパッケージ（`@navara/three` ほか）が必要ですが、これは未公開のため本リポジトリには同梱していません。
+
+**EN:** This repository contains the built site (`index.html`, `assets/`) and the source (`src/`). Building requires Navara's packages (`@navara/three` etc.), which are not bundled here as they are not yet publicly released.
+
 ## データ・クレジット / Data & Credits
 
 **JA:**
