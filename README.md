@@ -1,6 +1,6 @@
 # 日本の絶景 ― Japan's Fleeting Landscapes
 
-> 公開URL / Live: https://eukarya-biz.github.io/リポジトリ名/
+> 公開URL / Live: https://eukarya-biz.github.io/navara-hw-shimatani/
 
 **JA:**
 「条件が揃わないと見られない日本の自然の絶景」をテーマにした、3D地図のマップコンテンツです。特定の季節・天候・時刻・天体の位置が重なったときにだけ現れる風景を、時間を動かしながら再現します。3D地図エンジン [Navara](https://github.com/reearth/navara)（Rust + WebAssembly + Three.js）で制作しました。
