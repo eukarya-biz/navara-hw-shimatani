@@ -15,7 +15,7 @@ A 3D map experience themed around Japan's landscapes that appear only when the c
 | スポット / Spot | 現象 / Phenomenon | 条件 / Conditions | スクリーンショット / Screenshot |
 | --- | --- | --- | --- |
 | 竹田城跡 ― 天空の雲海 / Takeda Castle Ruins | 雲海 / Sea of clouds | 秋の早朝・放射冷却 / Autumn dawn, radiative cooling | <img width="1430" height="725" alt="雲海" src="https://github.com/user-attachments/assets/7cfaab79-b565-4644-8a97-faf25c5f5bd9" /> |
-| 石垣島 ― 満天の星空 / Ishigaki Island | 天の川 / Milky Way | 8月・新月の夜 / August, new-moon night | <img width="1433" height="718" alt="石垣島" src="https://github.com/user-attachments/assets/e32de10f-c859-45a6-9067-f66406e3078b" /> |
+| 石垣島 ― 満天の星空 / Ishigaki Island | 星空 / Starry sky | 夏の晴天の夜 / A clear summer night | <img width="1433" height="718" alt="石垣島" src="https://github.com/user-attachments/assets/e32de10f-c859-45a6-9067-f66406e3078b" /> |
 | 田貫湖 ― ダイヤモンド富士 / Lake Tanuki | ダイヤモンド富士 / Diamond Fuji | 8月頃の日の出 / Sunrise around August | <img width="1431" height="725" alt="ダイヤモンド富士" src="https://github.com/user-attachments/assets/da30b150-70f5-49ea-9d05-c2583969610e" /> |
 
 
